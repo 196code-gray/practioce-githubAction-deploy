@@ -16,7 +16,7 @@ on:
 permissions:
   contents: read
   
-evn:
+env:
   S3_BUCKET_NAME: be-20-196code-gray
 
 jobs:
